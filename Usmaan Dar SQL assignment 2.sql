@@ -1,6 +1,6 @@
+-- today we are querying data that appear in the worlddb sample dataset. 
 
-
-# considering what information lies in all the tables
+# first we consider what information lies in all the tables
 
 select *
 from city;
